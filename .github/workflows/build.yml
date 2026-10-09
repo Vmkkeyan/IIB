@@ -17,5 +17,5 @@ jobs:
       - run: flutter build apk --release
       - uses: actions/upload-artifact@v4
         with:
-          name: IIB-App-APK
+          name: iib-App-APK
           path: build/app/outputs/flutter-apk/app-release.apk
