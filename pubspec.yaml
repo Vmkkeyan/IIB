@@ -1,5 +1,5 @@
 name: iib
-description: IIB International Innovator Bridge - Agent App
+description: iib International Innovator Bridge - Agent App
 publish_to: 'none'
 version: 1.0.0+1
 environment:
