@@ -1,4 +1,4 @@
-name: Build IIB APK
+name: Build iib APK
 on: [push]
 jobs:
   build:
