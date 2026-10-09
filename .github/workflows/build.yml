@@ -12,7 +12,7 @@ jobs:
       - name: Fix Android Folder
         run: |
           rm -rf android
-          flutter create. --platforms=android
+          flutter create . --platforms=android
       - run: flutter pub get
       - run: flutter build apk --release
       - uses: actions/upload-artifact@v4
